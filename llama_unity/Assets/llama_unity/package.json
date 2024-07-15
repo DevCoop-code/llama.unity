@@ -1,0 +1,19 @@
+{
+    "name": "com.commitguy.llama_unity",
+    "version": "0.0.1",
+    "displayName": "llama.unity",
+    "description": "Using llama on Unity Engine",
+    "unity": "2021.3",
+    "dependencies": {
+
+   },
+   "keywords": [
+      "LLM",
+      "llama",
+      "ai"
+    ],
+    "author": {
+      "name": "commit guy",
+      "url": "https://www.youtube.com/@commitguytech"
+    }
+  }

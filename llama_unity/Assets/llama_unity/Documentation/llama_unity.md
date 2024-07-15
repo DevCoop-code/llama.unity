@@ -1,0 +1,1 @@
+detailed documentation for the package
