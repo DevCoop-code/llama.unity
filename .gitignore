@@ -7,6 +7,8 @@ llama_unity/[Ll]ogs/
 llama_unity/[Mm]emoryCaptures/
 .idea/
 
+llama_unity/Assets/StreamingAssets/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
