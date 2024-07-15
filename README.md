@@ -1,5 +1,5 @@
 # llama.unity
-![llama_unity_upm](./Images/llama_unity_logo.png)
+![llama_unity_upm](./Images/llama_unity_logo2.png)
 
 llama.unity is a unity3d plugin to run llm model on your local device.
 
